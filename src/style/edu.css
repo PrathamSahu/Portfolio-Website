@@ -1,0 +1,20 @@
+.education {
+  height: auto;
+}
+
+.inst {
+  margin:40px;
+}
+
+p {
+  color: gray;
+  margin: 4px;
+}
+
+h2{
+    font-size: 24px;
+}
+
+.edu{
+    padding-top: 30px;
+}

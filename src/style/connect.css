@@ -1,0 +1,47 @@
+.connect {
+  height: auto;
+  padding-bottom: 20px;
+  background-color: rgba(53, 48, 48, 0.857);
+}
+
+.social {
+  margin: 0px 10px;
+  display: flex;
+}
+
+.icon-wrap img {
+  height: 30px;
+  width: 30px;
+  filter: invert(1);
+  padding: 4px 4px;
+  cursor: pointer;
+}
+
+a + h4 {
+  color: white;
+  margin: auto 6px;
+  font-size: 18px;
+}
+
+.icon-wrap {
+  border-radius: 40px;
+  margin-right: 30px;
+  padding: 0px 0px;
+  display: flex;
+  height: 38px;
+  margin-top: 16px;
+}
+
+.icons {
+  margin: 0px 0px;
+  display: flex;
+  flex-direction: column;
+}
+
+.github {
+  height: 45px;
+}
+
+.link {
+  height: 40px;
+}

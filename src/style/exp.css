@@ -1,0 +1,37 @@
+.experience {
+  height: 500px;
+  padding-top: 15px;
+  width: 100%;
+  background: #e3e3e3;
+}
+
+.text {
+  padding-left: 14px;
+}
+
+
+.exp {
+  margin: 0px 25%;
+  background: url(../img/work.png);
+  height: 100%;
+  background-repeat: no-repeat;
+  padding-left: 80px;
+  padding-top: 40px;
+  line-height: 30px;
+}
+
+.text1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  margin-bottom: 52px;
+}
+.text2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  margin-bottom: 80px;
+  margin-left: 324px;
+}
+.text3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}

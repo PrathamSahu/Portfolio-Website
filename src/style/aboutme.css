@@ -1,0 +1,82 @@
+.about-me {
+  background: white;
+  margin: 30px 10px;
+  height: auto;
+}
+
+h1 {
+  display: block;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin: 10px 60px;
+  margin-bottom: 20px;
+  text-align: left;
+  color: rgb(209, 47, 241);
+}
+
+.heading {
+  text-shadow: 16px 14px 2px rgba(128, 128, 128, 0.33);
+}
+
+.blockbox {
+  display: flex;
+}
+
+.flex3 {
+  flex: 0.8;
+}
+
+.flex4 {
+  flex: 0.25;
+}
+
+.imagine {
+  justify-content: center;
+  align-items: center;
+}
+
+.p {
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin: 10px 60px;
+  font-size: 20px;
+}
+
+.about {
+  line-height: 1.8rem;
+}
+
+.icon-box {
+  display: flex;
+  padding: 10px;
+  padding-right: 80px;
+  padding-left: 10px;
+    border: 4px solid transparent;
+  transition: all 0.3s ease-in-out;
+}
+
+.logo {
+  height: 20px;
+}
+
+.table {
+  display: flex;
+  margin: 30px 56px;
+  align-items: center;
+}
+
+.margin {
+  margin-top: 35px;
+}
+
+.tool {
+  font-size: 16px;
+  padding-left: 8px;
+  margin-top: -2px;
+}
+
+.element {
+  width: 200px;
+}
+
+.icon-box:hover {
+  background: rgba(190, 199, 190, 0.637);
+}

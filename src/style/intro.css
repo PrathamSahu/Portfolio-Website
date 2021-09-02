@@ -1,0 +1,42 @@
+.box {
+  background: rgb(235, 223, 223);
+  height: 300px;
+  display: flex;
+  margin: 0px;
+}
+
+
+.imglogo {
+  margin-left: 65%;
+  border-radius: 100px;
+  width: 25%;
+}
+
+.context {
+  justify-content: center;
+  margin: auto;
+  box-sizing: border-box;
+  line-height: 25px;
+}
+
+h2{
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+b{
+  font-size: 23px;
+  color:rgb(255, 0, 34);
+}
+
+.para{
+  margin-top: 7px;
+  font-size: 16px;
+}
+
+.flex1 {
+  flex: 0.35;
+}
+
+.flex2 {
+  flex: 0.65;
+}
